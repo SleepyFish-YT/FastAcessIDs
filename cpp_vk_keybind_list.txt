@@ -1,3 +1,5 @@
+// this code snippet contains content from the window api
+
 /*
  * Virtual Keys, Standard Set
  */
